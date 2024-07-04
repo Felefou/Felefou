@@ -1,6 +1,6 @@
 - 👋 Bonjour, Je suis @Felefou
 - 👀 Je suis intéressé dans l'apprentissage de nouvelles technologies
-- 🌱 Je suis actuellement entrain d'apprendre le C#, le PHP et l'HTML/CSS
+
 
 
 <!---
